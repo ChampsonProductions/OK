@@ -1,0 +1,17 @@
+.custom-container {
+background-color: #25273F; /* Set the background color /
+padding: 20px; / Optional: add some padding /
+border-radius: 5px; / Optional: round the corners /
+color: white; / Optional: set text color for better contrast */
+}
+
+.custom-link {
+color: #E7D386; /* Link color */
+}
+
+.custom-link
+,
+.custom-link
+{
+color: #FFE88E; /* Hover/Focus link color */
+}
